@@ -1,5 +1,0 @@
-{
-  "port": 3000,
-  "db": "mongodb+srv://primerDB:primerdb@nodeexpressprojects.5j7zt.mongodb.net/?retryWrites=true",
-  "logLevel": "info"
-}
